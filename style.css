@@ -1,0 +1,17 @@
+body {background-image: url("images/geo\ background.png"); font-family: Arial;}
+
+#intro {text-align: center;color: MidnightBlue;}
+
+#intro2 {text-align: center;color: LightSlateGrey;}
+
+h3 {color: LightSlateGrey;}
+
+h4 {color: MistyRose;}
+
+h3 {color: LightBlue;text-shadow: 2px 2px 5px LightSteelBlue;}
+
+.row {display: flex;}
+.column {flex: 33.33%;padding: 5px;}
+
+a:link {color: Lavender;}
+a:visited {color: LavenderBlush;}
